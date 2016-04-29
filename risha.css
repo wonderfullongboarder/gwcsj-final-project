@@ -2,7 +2,3 @@ body {
     background-image: url("http://pic.1fotonin.com/data/wallpapers/39/WDF_858242.jpg");
     background-repeat:no-repeat;
 }
-img.bg {
-  /* Set rules to fill background */
-  min-height: 200%;
-  min-width: 150%;
