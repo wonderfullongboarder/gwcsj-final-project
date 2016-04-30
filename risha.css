@@ -4,8 +4,8 @@ body {
 }
 #bg {
   position: fixed; 
-  top: 25; 
-  left: 25; 
+  top: 25px; 
+  left: 25px; 
 	
   /* Preserve aspet ratio */
   min-width: 150%;
