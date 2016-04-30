@@ -1,9 +1,6 @@
 body {
-    background-image: url("http://pic.1fotonin.com/data/wallpapers/39/WDF_858242.jpg");
-    background-repeat:no-repeat;
-body {
   /* Location of the image */
-  background-image: url(images/background-photo.jpg);
+  background-image: url(http://pic.1fotonin.com/data/wallpapers/39/WDF_858242.jpg);
   
   /* Background image is centered vertically and horizontally at all times */
   background-position: center center;
