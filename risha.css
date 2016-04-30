@@ -1,13 +1,10 @@
 body {
     background-image: url("http://pic.1fotonin.com/data/wallpapers/39/WDF_858242.jpg");
     background-repeat:no-repeat;
-}
-#bg {
-  position: fixed; 
-  top: 25px; 
-  left: 25px; 
-	
-  /* Preserve aspet ratio */
-  min-width: 150%;
-  min-height: 150%;
+html { 
+  background: url("http://pic.1fotonin.com/data/wallpapers/39/WDF_858242.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
