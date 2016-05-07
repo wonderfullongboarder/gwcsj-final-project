@@ -1,3 +1,4 @@
-body {
-  background: url(http://www.planwallpaper.com/static/images/i-should-buy-a-boat.jpg) center center cover no-repeat fixed;
+img {
+    max-width: 100%;
+    height: auto;
 }
