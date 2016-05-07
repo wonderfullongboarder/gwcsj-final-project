@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
 <body>
-<link rel="stylesheet" type="text/css" href="style.css"/>
+
 <img src="http://pic.1fotonin.com/data/wallpapers/39/WDF_858242.jpg">
 </body>
 </html>
