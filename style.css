@@ -16,7 +16,5 @@ body {
      on the container's size */
   background-size: cover;
   
-  /* Set a background color that will be displayed
-     while the background image is loading */
-  background-color: #464646;
+ 
 }
